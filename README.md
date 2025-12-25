@@ -1,8 +1,9 @@
-🤖 Voice-to-Voice AI Agent 🧑‍💻
+*🤖 Voice-to-Voice AI Agent 🧑‍💻*
 
 This project is a real-time voice-based AI agent that enables users to speak directly with the AI and receive instant voice responses. Unlike text-based chatbots, this system provides a more natural, immersive conversation experience, making AI interaction seamless and intuitive. ✨
 
-📌 Key Features:
+*📌 Key Features:*
+
 Voice Interaction 🗣️➡️🔊
 
 Speak through a microphone and hear AI respond instantly, providing a dynamic and fluid conversation flow.
@@ -19,7 +20,7 @@ Seamless AI Conversation 🤩
 
 Converts user speech into AI queries and AI responses back into voice without any noticeable delay, creating a fluid and responsive conversation.
 
-📌 Impact:
+*📌 Impact:*
 
 Enhanced Natural Interactions: Makes AI interaction more human-like and intuitive, encouraging spontaneous communication.
 
@@ -27,7 +28,7 @@ Hands-free Conversations: Ideal for virtual assistants and applications where vo
 
 Wide Applications: Perfect for virtual assistants, customer support, interactive AI systems, and more.
 
-📌 Technologies Used:
+*📌 Technologies Used:*
 
 OpenAI Realtime API (WebSocket) 🌐
 
@@ -41,6 +42,6 @@ Realtime Voice Streaming ⏱️
 
 Provides immediate responses, facilitating continuous voice-based conversations.
 
-🌟 Project Overview:
+*🌟 Project Overview:*
 
 This project demonstrates how to combine AI and voice technology to create an interactive, immersive conversational system. The integration of real-time speech recognition and AI-powered voice responses opens up possibilities for hands-free and engaging experiences across multiple use cases.
